@@ -1,4 +1,5 @@
 # CareLens
+![CareLens](https://github.com/user-attachments/assets/318d15ce-3ccf-4f70-973d-77a83ee30f76)
 
 CareLens is an AI-powered symptom checker built with Next.js and TypeScript. It uses voice recognition and AI to provide quick, reliable medical guidance based on users’ spoken or typed symptoms. The app offers instant advice and suggests the appropriate type of medical specialist to consult.
 
